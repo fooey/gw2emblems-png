@@ -1,0 +1,1185 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"intensifyPixel"
+			],
+			[
+				"__",
+				"__freshmaker"
+			],
+			[
+				"fre",
+				"fresherMinDelay〔variable〕"
+			],
+			[
+				"ca",
+				"catchupInterval"
+			],
+			[
+				"__fr",
+				"__refresh"
+			],
+			[
+				"back",
+				"background_color_id"
+			],
+			[
+				"gu",
+				"guildData"
+			],
+			[
+				"guild",
+				"guildsMapPath〔variable〕"
+			],
+			[
+				"Java",
+				"JavaScript"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"pre-",
+				"pre-wrap"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"fon-t",
+				"font-variant"
+			],
+			[
+				"isD",
+				"isDefaultValue"
+			],
+			[
+				"br",
+				"browseConfig"
+			],
+			[
+				"inline-",
+				"inline-block"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"well",
+				"well-sm"
+			],
+			[
+				"progress-bar",
+				"progress-bar-warning"
+			],
+			[
+				"respon",
+				"img-responsive"
+			],
+			[
+				"list",
+				"list-inline"
+			],
+			[
+				"list-",
+				"list-inline"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"compile",
+				"compiled.min.js"
+			],
+			[
+				"bui",
+				"build-js.js"
+			],
+			[
+				"status",
+				"statusCode"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"panel-",
+				"panel-footer"
+			],
+			[
+				"font-va",
+				"font-variant"
+			],
+			[
+				"Perfora",
+				"Performance"
+			],
+			[
+				"border-top-",
+				"border-top-style"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"table",
+				"table-striped"
+			],
+			[
+				"table-re",
+				"table-responsive"
+			],
+			[
+				"panel-d",
+				"panel-danger-text"
+			],
+			[
+				"font-family",
+				"font-family-condensed"
+			],
+			[
+				"refer",
+				"referenceData"
+			],
+			[
+				"fa",
+				"Facility  (function)"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"topCi",
+				"buildTopCities"
+			],
+			[
+				"col-",
+				"col-lg-"
+			],
+			[
+				"page",
+				"page-header"
+			],
+			[
+				"alert-",
+				"alert-warning"
+			],
+			[
+				"getWorld",
+				"getWorldById"
+			],
+			[
+				"ng-mouse",
+				"ng-mouseleave	AngularJS"
+			],
+			[
+				"ng-m",
+				"ng-mouseover	AngularJS"
+			],
+			[
+				"btn-",
+				"btn-info"
+			],
+			[
+				"overf",
+				"overflow-x"
+			],
+			[
+				"paen",
+				"panel-heading"
+			],
+			[
+				"pn",
+				"panel-body"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"panel",
+				"panel-heading"
+			],
+			[
+				"ng-r",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"w",
+				"worldsConfig  (variable)"
+			],
+			[
+				"list-group",
+				"list-group-item"
+			],
+			[
+				"getMatches",
+				"getMatchesUrl"
+			],
+			[
+				"overflow-",
+				"overflow-x:   (property)"
+			],
+			[
+				"ob",
+				"objectiveClaimer"
+			],
+			[
+				"obje",
+				"objectiveClaimer"
+			],
+			[
+				"onNew",
+				"onNewClaimer"
+			],
+			[
+				"even",
+				"eventArgs"
+			],
+			[
+				"last",
+				"lastMessaged"
+			],
+			[
+				"obj",
+				"objectiveState"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"q",
+				"querystring"
+			],
+			[
+				"doorsC",
+				"doorsClosing"
+			],
+			[
+				"c",
+				"currentFloor  (variable)"
+			],
+			[
+				"mouse",
+				"mouseenter	mouseenter"
+			],
+			[
+				"cacheType",
+				"cacheTypeCur"
+			],
+			[
+				"draw",
+				"drawFG"
+			],
+			[
+				"write",
+				"writePrev"
+			],
+			[
+				"ua",
+				"uaUUID"
+			],
+			[
+				"score",
+				"scoreboards"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ma",
+				"matrixNoTransform"
+			],
+			[
+				"FlipF",
+				"FlipForegroundVertical"
+			],
+			[
+				"__upd",
+				"__updateEmblemCodes"
+			],
+			[
+				"dl",
+				"dl-horizontal"
+			],
+			[
+				"__w",
+				"__writeRetry"
+			],
+			[
+				"li",
+				"list-unstyled"
+			],
+			[
+				"sh",
+				"shapes"
+			],
+			[
+				"__I",
+				"__INSTANCE"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"err",
+				"error	.error()"
+			],
+			[
+				"objectiveGr",
+				"objectiveGroups"
+			],
+			[
+				"req",
+				"requeuing"
+			],
+			[
+				"objec",
+				"objectiveId  (argument)"
+			],
+			[
+				"his",
+				"historyController"
+			],
+			[
+				"collectoin",
+				"collectionName"
+			],
+			[
+				"updateMatchDetails",
+				"updateMatchDetails"
+			],
+			[
+				"onc",
+				"onClientError"
+			],
+			[
+				"onClient",
+				"onClientClose"
+			],
+			[
+				"alert",
+				"alert-danger"
+			],
+			[
+				"navbar",
+				"navbar-header"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"objective",
+				"objectiveGroup"
+			],
+			[
+				"objectiveC",
+				"objectiveCommonNames"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"objet",
+				"objectiveTypes"
+			],
+			[
+				"par",
+				"parallel"
+			],
+			[
+				"worlds",
+				"worldsController"
+			],
+			[
+				"wvw_",
+				"wvw_match_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: remove",
+		"selected_items":
+		[
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"dotjs",
+				"Set Syntax: HTML with dotjs"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"expand",
+				"ExpandRegion"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"jsx",
+				"Set Syntax: JavaScript (JSX)"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"linter",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"prefer",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pref",
+				"Preferences: Settings - Default"
+			],
+			[
+				"perfer",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"js x",
+				"Set Syntax: JSX"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"snippet",
+				"Snippet: bst-cdn"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 299.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/inet/projects/gw2emblems-png"
+	],
+	"file_history":
+	[
+		"/D/inet/test/png/render-test.babel.js",
+		"/D/inet/test/png/package.json",
+		"/D/inet/test/png/render-test.js",
+		"/D/inet/test/png/lib/emblem.js",
+		"/D/inet/test/png/lib/png.js",
+		"/D/inet/test/png/lib/color.js",
+		"/D/inet/test/png/get.fg.babel.js",
+		"/D/inet/test/png/index.js",
+		"/D/inet/test/png/get.bg.babel.js",
+		"/D/inet/test/png/raw/get.fg.babel.js",
+		"/D/inet/test/png/raw/get.fg.js",
+		"/D/inet/heroku/node-gw2guilds/gruntfile.js",
+		"/D/inet/heroku/node-gw2guilds/views/guild.jade",
+		"/D/inet/heroku/node-gw2guilds/lib/emblem/index.js",
+		"/D/inet/heroku/node-gw2guilds/.gitignore",
+		"/D/inet/heroku/node-gw2guilds/data/guilds/guilds-index.json",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/7/root@104.236.166.59/guilds.gw2w2w.com.conf",
+		"/D/Users/jason/Documents/My Games/Fallout4/Fallout4.ini",
+		"/D/inet/heroku/node-gw2guilds/lib/gw2emblem/defs.foreground.json",
+		"/D/Users/jason/Documents/My Games/Fallout4/Fallout4Prefs.ini",
+		"/D/Users/jason/Documents/My Games/Fallout4/Fallout4Custom.ini",
+		"/C/Games/steamapps/common/Fallout 4/Fallout4/Fallout4Prefs.ini",
+		"/C/Users/Jason/AppData/Local/Temp/Rar$DIa0.317/CustomControlMap.txt",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/6/root@104.236.166.59/guilds.gw2w2w.com.access.log",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/179-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/179-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/178-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/178-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/177-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/177-2.svg",
+		"/C/Games/steamapps/common/Fallout 4/ShadowBoost.ini",
+		"/C/Users/Jason/AppData/Local/Temp/Rar$DIa0.763/readme.txt",
+		"/C/Games/steamapps/common/Fallout 4/Ultra.ini",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/176-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/176-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/175-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/175-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/174-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/174-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/173-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/173-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/172-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/172-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/171-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/171-2.svg",
+		"//dev/downloads/raw/fg/171-1.svg",
+		"//dev/downloads/raw/fg/171-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/170-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/170-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/169-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/169-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/166-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/166-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/167-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/167-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/168-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/168-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/165-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/165-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/163-2.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/163-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/164-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/163-1.png",
+		"//dev/downloads/raw/fg/163-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/get.fg.babel.js",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/164-2.svg",
+		"//dev/downloads/raw/fg/164-1.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/get.fg.js",
+		"//dev/downloads/raw/fg/164/2.svg",
+		"//dev/downloads/raw/fg/164/1.svg",
+		"/D/inet/heroku/node-gw2guilds/package.json",
+		"/D/inet/test/png/convert.js",
+		"/D/inet/test/png/convert.babel.js",
+		"/D/inet/projects/lnh5.bak/data/get.js",
+		"/D/inet/heroku/node-gw2guilds/raw/get.bg.babel.js",
+		"/D/inet/heroku/node-gw2guilds/raw/get.bg.js",
+		"//dev/downloads/raw/fg/164/0.svg",
+		"/D/inet/heroku/node-gw2guilds/raw/fg/164/1.svg",
+		"/D/inet/heroku/node-gw2guilds/server-start.js",
+		"/D/inet/test/Tyria3DLibrary/gulpfile.js",
+		"/D/inet/test/Tyria3DLibrary/src/main.js",
+		"/D/inet/heroku/node-gw2guilds/routes/emblem.js",
+		"/D/inet/heroku/node-gw2guilds/config/server.js",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/1/root@104.236.166.59/guilds.gw2w2w.com.conf",
+		"/D/inet/heroku/node-gw2guilds/routes/guild.js",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/0/root@104.236.166.59/nginx.conf",
+		"/D/inet/heroku/node-gw2guilds/data/emblems/164.svg",
+		"/D/inet/heroku/node-gw2guilds/data/emblems/164.min.svg",
+		"/D/inet/heroku/node-gw2guilds/.babelrc",
+		"/D/Users/jason/Documents/AutoHotkey/general.ahk",
+		"/D/Users/jason/Documents/My Games/Fallout4/ControlMap_Custom.txt",
+		"/C/Users/Jason/AppData/Local/Temp/Rar$DIa0.381/README.txt",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/10/root@104.236.166.59/nosrc.net.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/1/root@104.236.166.59/nosrc.net.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/3/root@104.236.166.59/guilds.gw2w2w.com.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/4/root@104.236.166.59/gw2w2w.com.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/6/root@104.236.166.59/piely.net.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/7/root@104.236.166.59/state.gw2w2w.com.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/9/root@104.236.166.59/nginx.backup.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/2/root@104.236.166.59/nginx.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/5/root@104.236.166.59/nosrc.net.conf",
+		"/D/inet/heroku/node-gw2guilds/views/home.jade",
+		"/D/inet/heroku/node-gw2guilds/routes/index.js",
+		"/D/inet/heroku/node-gw2guilds/public/js/src/linkBuilder.js",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/0/root@104.236.166.59/nosrc.net.conf",
+		"/D/inet/heroku/node-gw2guilds/lib/emblem/export.js",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/15/root@104.236.166.59/nginx.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/24/root@104.236.166.59/guilds.gw2w2w.com.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/26/root@104.236.166.59/nosrc.net.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/25/root@104.236.166.59/cors.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/18/root@104.236.166.59/blockips.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/16/root@104.236.166.59/cors.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/23/root@104.236.166.59/cors.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/17/root@104.236.166.59/cloudflare.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/22/root@104.236.166.59/cloudflare.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/21/root@104.236.166.59/cloudflare.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/20/root@104.236.166.59/blockips.conf",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/19/root@104.236.166.59/blockips.conf",
+		"/D/Users/jason/Documents/Resume/Cover Letters/Cover Letter.txt",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/18/root@104.236.166.59/gw2guilds.json",
+		"/D/inet/heroku/node-gw2guilds/routes/robots.js",
+		"/D/inet/heroku/node-gw2guilds/server.js",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/20/root@104.236.166.59/server-start.js",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/19/root@104.236.166.59/server.js",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/21/root@104.236.166.59/newrelic_agent.log",
+		"/D/Users/jason/Documents/MobaXterm/slash/RemoteFiles/17/root@104.236.166.59/newrelic_agent.log",
+		"/D/apps/box/GovSites/Application.cfc",
+		"/D/inet/heroku/yakyak/gulpfile.coffee"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>, -**/node_modules/**, -**/dist/**, *.js",
+			"<project>, -**/node_modules/**, *.js",
+			"<project>, !**/node_modules, *.js",
+			"<project>, -**/node_modules, *.js",
+			"<project>, !node_modules, *.js",
+			"<project> ,!**/node_modules/**, *.js",
+			"<project> ,!**node_modules, *.js",
+			"<project> ,-node_modules, *.js",
+			"<open folders>, ,-node_modules",
+			"<open folders>, !node_modules",
+			"<open folders>",
+			"D:\\inet\\heroku\\local-mechanics, -**/node_modules/**, -**/bower_components/**, -**/dist/**, *.js, *.html",
+			"D:\\inet\\heroku\\local-mechanics, -**/node_modules/**, -**/dist/**, *.js, *.html",
+			"D:\\inet\\heroku\\local-mechanics\\gulp, -**/node_modules/**, -**/dist/**, *.js, *.html",
+			"D:\\inet\\heroku\\local-mechanics\\, -**/node_modules/**, -**/dist/**, *.js, *.html",
+			"D:\\inet\\heroku\\local-mechanics\\, -**/node_modules/**, -**/dist/**, *.js",
+			"D:\\inet\\heroku\\local-mechanics\\, -**/node_modules/**, *.js",
+			"D:\\inet\\heroku\\local-mechanics\\node_modules\\hapi\\lib",
+			"D:\\inet\\heroku\\local-mechanics, -*/node_modules/*, -*/bower_components/*, -*/public/dist/*, *.js",
+			"D:\\inet\\heroku\\local-mechanics, -*/node_modules/*, -*/bower_components/*, *.js",
+			"D:\\inet\\heroku\\local-dialysis, -*/node_modules/*, -*/bower_components/*, *.js",
+			"D:\\inet\\heroku\\local-dialysis, -*/node_modules/*, -*/bower_components/*, *.*",
+			"D:\\inet\\heroku\\local-dialysis, -*/node_modules/*, -*/bower_components/*,",
+			"D:\\inet\\heroku\\local-dialysis, -*/node_modules/*, -*/bower_components/*, *.js",
+			"D:\\inet\\heroku\\local-dialysis, -*/node_modules/*, -*/bower_components/*, *.less",
+			"D:\\inet\\heroku\\local-dialysis, -*/node_modules/*, -*/bower_components/*, *.jade",
+			"D:\\inet\\heroku\\local-dialysis, -*/node_modules/*, -*/bower_components/*, *.js",
+			"D:\\inet\\heroku\\local-dialysis, -*/node_modules/*, -*/bower_components/*, *.ja",
+			"D:\\inet\\heroku\\gw2w2w-angular\\app, -*/node_modules/*, -*/bower_components/*, *.jade",
+			"D:\\inet\\heroku\\gw2w2w-angular\\app, -*/node_modules/*, -*/bower_components/*, *.jade, *.js, -*.min.js",
+			"D:\\inet\\heroku\\gw2w2w-angular, -*/node_modules/*, -*/bower_components/*, *.jade, *.js, -*.min.js",
+			"D:\\inet\\heroku\\gw2w2w-angular, -*/node_modules/*, -*/bower_components/*, *.jade, *.js",
+			"D:\\inet\\heroku\\gw2w2w-angular, -*/node_modules/*, *.jade, *.js",
+			"D:\\inet\\heroku\\gw2w2w-angular, -*/node_modules/*, *.jade",
+			"D:\\inet\\heroku\\gw2w2w-angular, -*/node_modules/*, *.js",
+			"D:\\inet\\heroku\\gw2w2w-angular\\**.js",
+			"D:\\inet\\heroku\\gw2w2w-angular\\**.jade",
+			"D:\\inet\\heroku\\gw2w2w-angular\\**.jade, -*/node_modules/*",
+			"D:\\inet\\heroku\\gw2w2w-angular\\**.js, -*/node_modules/*",
+			"D:\\inet\\heroku\\gw2w2w-angular*.js, -*/node_modules/*",
+			"D:\\inet\\heroku\\gw2w2w-angular\\*.js, -*/node_modules/*",
+			"D:\\inet\\heroku\\gw2w2w-angular, -*/node_modules/*",
+			"D:\\inet\\heroku\\gw2w2w-angular\\, -*/node_modules/*, -*/bak/*",
+			"D:\\inet\\heroku\\gw2w2w-ws\\, -*/node_modules/*, -*/bak/*",
+			"D:\\inet\\heroku\\gw2w2w-ws\\, -*/node_modules/*",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\,-*/bak/*",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\*.js",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\*.js",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\js\\*.js",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\js*.js",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\js",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\js\\tracker",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\js",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\js\\tracker",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\js\\tracker\\*",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\tracker\\*",
+			"D:\\inet\\heroku\\gw2w2w-ws\\public\\tracker",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*/node_modules*,-*/bak*,",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*/node_modules*,-*/bak*,-*/public*",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*/node_modules*,-*/bak*",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*/node_modules/*",
+			"D:\\inet\\heroku\\gw2w2w-ws",
+			"D:\\inet\\heroku\\gw2w2w-ws,-/D/inet/heroku/gw2w2w-ws/node_modules*",
+			"D:\\inet\\heroku\\gw2w2w-ws,-D:\\inet\\heroku\\gw2w2w-ws\\node_modules*",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*node_modules*",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*\\node_modules\\*",
+			"D:\\inet\\heroku\\gw2w2w-ws,-/D/inet\\heroku\\gw2w2w-ws\\node_modules\\*",
+			"D:\\inet\\heroku\\gw2w2w-ws,-/D/inet\\heroku\\gw2w2w-ws\\node_modules",
+			"D:\\inet\\heroku\\gw2w2w-ws,-\\D\\inet\\heroku\\gw2w2w-ws\\node_modules",
+			"D:\\inet\\heroku\\gw2w2w-ws,-D:\\inet\\heroku\\gw2w2w-ws\\node_modules",
+			"D:\\inet\\heroku\\gw2w2w-ws",
+			"<open files>",
+			"",
+			"<open files>",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*/node_modules/*,-*/cache/*,-*.min.js,-*.min.css,-*.map.js",
+			"D:\\inet\\heroku\\node-gw2guilds,-*/node_modules/*,-*/cache/*,-*.min.js,-*.min.css,-*.map.js",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*/node_modules/*,-*/cache/*,-*.min.js,-*.min.css,-*.map.js",
+			"D:\\inet\\heroku\\node-gw2guilds,-*/node_modules/*,-*/cache/*,-*.min.js,-*.min.css,-*.map.js",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*/node_modules/*,-*/cache/*,-*.min.js,-*.min.css,-*.map.js",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*/node_modules/,-*.min.js,-*.min.css,-*.map.js",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*/node_modules/*,-*.min.js,-*.min.css,-*.map.js",
+			"D:\\inet\\heroku\\gw2w2w-ws,-/D/inet/heroku/gw2w2w-ws/node_modules/*,-*.min.js,-*.min.css,-*.map.js",
+			"D:\\inet\\heroku\\gw2w2w-ws,-/D/inet/heroku/gw2w2w-ws/node_modules/*,-*.min.js,-*.min.css",
+			"D:\\inet\\heroku\\gw2w2w-ws,-D:\\inet\\heroku\\gw2w2w-ws\\node_modules\\*,-*.min.js,-*.min.css",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*\\node_modules\\*,-*.min.js,-*.min.css",
+			"D:\\inet\\heroku\\gw2w2w-ws,-node_modules\\*,-*.min.js,-*.min.css",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*\\node_modules\\*,-*.min.js",
+			"D:\\inet\\heroku\\gw2w2w-ws,-*\\node_modules\\*",
+			"D:\\inet\\heroku\\gw2w2w-ws,-D:\\inet\\heroku\\gw2w2w-ws\\node_modules\\",
+			"D:\\inet\\heroku\\gw2w2w-ws",
+			"D:\\inet\\heroku\\node-gw2guilds",
+			"",
+			"D:\\inet\\heroku\\node-gw2guilds",
+			"D:\\inet\\heroku\\node-gw2guilds,-D:/inet/heroku/node-gw2guilds/node_modules/*",
+			"D:\\inet\\heroku\\node-gw2guilds,-D:\\inet\\heroku\\node-gw2guilds\\node_modules\\*",
+			"D:\\inet\\heroku\\node-gw2guilds,-node_modules*.*",
+			"D:\\inet\\heroku\\node-gw2guilds,-node_modules*",
+			"D:\\inet\\heroku\\node-gw2guilds",
+			"<open folders>,-*/node_modules/*",
+			"<open folders>",
+			"D:\\inet\\heroku\\gw2w2w-ws\\lib,<open folders>",
+			"D:\\inet\\heroku\\gw2w2w-ws\\lib",
+			"D:\\inet\\heroku\\gw2w2w-ws",
+			"D:\\inet\\heroku\\gw2w2w-ws\\beans",
+			"D:\\inet\\heroku\\gw2w2w-ws\\lib",
+			"D:\\inet\\heroku\\gw2w2w-ws",
+			"D:\\inet\\heroku\\gw2w2w-ws\\lib",
+			"D:\\inet\\heroku\\gw2w2w-ws\\routes",
+			"D:\\inet\\heroku\\gw2w2w-ws"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fs",
+			"range",
+			"pngSize",
+			"bgRoot",
+			"path",
+			"renderLayerFG",
+			"lightnessMap",
+			"results",
+			"OpacityMap1",
+			"fgOpacityMap1",
+			"lightnessMap",
+			"sourceMap",
+			"lightnessMap",
+			"renderLayer",
+			"filePath",
+			"loadPng",
+			"id",
+			"ix",
+			"pctLightness",
+			"pctIntesity",
+			"intensityMap",
+			"intensified",
+			"intensify",
+			"colorizedPixel",
+			"console",
+			"fs",
+			"1",
+			"bgRoot",
+			"pngRoot",
+			"console",
+			"id",
+			"128",
+			"combineChannel",
+			"combineAlpha",
+			"combineColors",
+			"rgba",
+			"rgba2",
+			"rgba2.a",
+			"rgba.a",
+			"51",
+			"layer2",
+			"opacityMap.pixels[ix]",
+			"rgbBurn",
+			"intensifyLayer1",
+			"applyIntensity",
+			"r",
+			"pctIntesity",
+			"1",
+			"const",
+			"intensityMap",
+			"1",
+			"opacityMap2",
+			"r",
+			"256",
+			"new png",
+			"intensityMap",
+			"activePixels",
+			"console.log",
+			"fs",
+			"=",
+			"volume",
+			"0xa4",
+			"http",
+			"[\n    ]",
+			"256",
+			"256px",
+			"\"/>",
+			"<path d=",
+			"\"/>",
+			"<path d=",
+			"fill",
+			"/>",
+			"<path d=",
+			"/>",
+			"<path d=",
+			"fill",
+			"/>",
+			"<path d=",
+			"\"M41.49 19.46c1.7-1.06 3.07-2.54 4.69-3.71-2.86 4.35-5.66 9.37-4.6 14.77.36 3.29 2.77 5.81 5.39 7.6 4.9 3.07 10.45 4.78 15.7 7.12 3.81 1.43 5.31 5.55 8.08 8.23 2.89 5.52.44 12.37-4.57 15.74-.6-.29-1.2-.59-1.8-.89 2.68-3.83 2.24-9.43-.59-13.",
+			"/>",
+			"<path d=",
+			"/>",
+			"<path d=",
+			"/>",
+			"<path d=",
+			"/>",
+			"<path d=",
+			"fill",
+			"/>",
+			"<path d=",
+			"fill",
+			"/>",
+			"<path d=",
+			"fill",
+			"<path d=",
+			"opacity",
+			"fill",
+			" />",
+			"fill",
+			"/>",
+			"<path d=",
+			"opacity",
+			"fill",
+			"/",
+			"<path d=",
+			"opacity",
+			"fill",
+			"/>",
+			"<path d=",
+			"\"/>",
+			"<path d=",
+			"d=",
+			"\" />",
+			"<path ",
+			"opacity",
+			"fill",
+			"\"/>",
+			"<path d=",
+			"fill",
+			"\"/>",
+			"<path d=",
+			"fill",
+			"<path d=\"",
+			"fill",
+			"opacity",
+			"<path d=",
+			"fill",
+			"opacity"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'use strict'",
+			"\",",
+			"\"",
+			"\",",
+			"\"",
+			"\",",
+			"\"",
+			"\",",
+			"\"",
+			"\",",
+			"\"",
+			"",
+			"\",",
+			"\"",
+			"\",",
+			"\"",
+			"",
+			"\"slug\"",
+			"\n	stream.on('error', function (err) {\n		console.log(err.toString());\n		this.emit(\"end\");\n	});",
+			"require('jquery')",
+			"require('jQuery')",
+			"//var /*global*/require = require",
+			"/*global*/require",
+			"require('lodash')",
+			"GLOBAL.DATA.REFERENCE",
+			"GLOBAL.DATA",
+			"GLOBAL.DATABASE",
+			"getService",
+			"me.",
+			"me = module.exports = {}",
+			"pub.",
+			"var pub = module.exports",
+			"GLOBAL.productionDataDirectory",
+			"$scope.worlds",
+			"active.match",
+			"active.world",
+			"active.lang",
+			"appServices",
+			"appFilters",
+			"appControllers",
+			"appAnimations",
+			"gw2app",
+			"trackerData",
+			"window.appData",
+			"idle",
+			"transferringPassengers",
+			"'departure'",
+			"'arrival'",
+			"Anet.getObjectiveNames",
+			"subscribeToChannel",
+			"isLocalFresh",
+			"Date.now()",
+			"GLOBAL.WebSocketServer",
+			"dbGetCollection",
+			"process.cwd()",
+			"_.forEach",
+			"lodash"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\inet\\projects\\gw2emblems-png"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 396.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"net",
+				"services\\net.js"
+			],
+			[
+				"geo",
+				"services\\geo.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "react",
+		"selected_items":
+		[
+			[
+				"react",
+				"D:\\inet\\projects\\gw2w2w-react\\gw2w2w-react.sublime-project"
+			],
+			[
+				"nos",
+				"D:\\inet\\heroku\\nosrc\\nosrc.sublime-project"
+			],
+			[
+				"",
+				"D:\\inet\\heroku\\gw2w2w-react\\gw2w2w-react.sublime-project"
+			],
+			[
+				"state",
+				"D:\\inet\\heroku\\gw2w2w-state\\gw2w2w-state.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 672.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
